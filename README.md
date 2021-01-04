@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is me, MousieDev. (Please dont question the name i dont know either)
-Support me with Litecoins! (ltc1qgyfq282naxzvp4609a8c3g5v2r7rq3t6hehx57)
+Support me with Litecoins! (`ltc1qgyfq282naxzvp4609a8c3g5v2r7rq3t6hehx57`)
 
 <!--
 **MousieDev/MousieDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
