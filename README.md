@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is me, MousieDev.
+This is me, MousieDev.<br />
 Support me with Litecoins! (`ltc1qgyfq282naxzvp4609a8c3g5v2r7rq3t6hehx57`)
 
 <!--
