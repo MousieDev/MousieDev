@@ -6,7 +6,7 @@ This is me, MousieDev.<br />
 - 👯 I’m looking to collaborate on game
 
 
-- 📫 How to reach me: Twitter/MousieDev
+- 📫 How to reach me: Twitter/MousieDev; Discord: mousiedev_t#5527
 
 
 <!-- Support me with Litecoins! (`ltc1qgyfq282naxzvp4609a8c3g5v2r7rq3t6hehx57`) -->
